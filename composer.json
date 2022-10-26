@@ -1,0 +1,18 @@
+{
+    "name": "luisaedev/flex-pdo",
+    "description": "Flexible and fancy class for PHP, it will help you to handle PDO connections and PDO statements through a single instance.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LuisaeDev\\FlexPDO\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luis Aguilar",
+            "email": "hi@luisae.dev"
+        }
+    ],
+    "require": {}
+}
