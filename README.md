@@ -43,11 +43,15 @@ The MIT License (MIT). Please see [License File](LICENSE) for more information.
 ## About me
 
 <div id="header">
-  <img src="https://www.luisae.dev/wp-content/uploads/2022/10/img_luis-profile.png" alt="Luis Profile Image" width="120"/>
+  <a href="https://www.luisae.dev">
+    <img src="https://www.luisae.dev/wp-content/uploads/2022/10/img_luis-profile.png" alt="Luis Profile Image" width="120"/>
+  </a>
 </div>
 
 I’m a software engineer with more than 12 years of professional experience and skill enhancement. Specialized in web application development and REST API’s.
 I have a strong knowledge and experience on Backend [PHP] for the creation of complex and decoupled architectures. My experience covers: Backend and Frontend technologies, SQL and NoSQL databases, GIT, LAMP servers, cloud services as well of other services related to software development and coding.
+
+For more information, visit my website [www.luisae.dev](https://www.luisae.dev)
 
 <div id="badges">
   <a href="http://linkedin.com/in/luisaedev">
